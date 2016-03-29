@@ -1,0 +1,33 @@
+body { padding-top: 50px; }
+.container{
+	padding:0 100px;
+}
+.carousel{
+	height:300px;
+	background-color: #000;
+}
+.carousel .item{
+	height: 300px;
+	background-color: #000;
+}
+
+.container-logo{
+	margin-top:30px;
+}
+.col-md-4>img{
+	width: 200px;
+	height: 200px;
+}
+.col-md-4{
+	text-align: center;
+}
+hr{
+	margin:20px 0; 
+}
+.tab-feature{
+	padding:80px 20px 0;
+}
+.col-md-5>img{
+	width: 300px;
+	height: 300px;
+}
